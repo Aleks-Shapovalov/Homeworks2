@@ -20,3 +20,8 @@ ul li {
     padding-right: 10px;
     line-height: 1.6;
 }
+
+img {
+    width: 200vw;
+    height: 200px;
+}
