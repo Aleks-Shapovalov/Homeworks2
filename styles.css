@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(218, 253, 241);
+}
+
+body {
+    color: #494747;
+    font: 90% Roboto, Arial, sans-serif;
+    font-weight: 300;
+}
+
+p {
+    padding: 0 10px;
+    line-height: 1.8;
+    color: rebeccapurple;
+}
+
+ul li {
+    padding-right: 10px;
+    line-height: 1.6;
+}
